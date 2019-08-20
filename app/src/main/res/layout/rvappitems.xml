@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="10dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:padding="7dp"
+        android:id="@+id/l1">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="9"
+            android:orientation="vertical">
+            <TextView
+                android:id="@+id/head"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                style="@style/TextAppearance.AppCompat.Title"
+                android:ellipsize="end"
+                android:maxLines="1"
+                android:textStyle="italic"
+                android:textSize="30sp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_weight="1"
+                android:text="gyfyujgfgjk/786/987/07jvbuyfyujyviuuiguyjv"/>
+            <TextView
+                android:id="@+id/det"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:ellipsize="end"
+                android:maxLines="2"
+                android:layout_weight="2"
+                android:textStyle="normal"
+                android:textSize="20sp"
+                android:text="hjkk yt byuui iyhgftgluiuyii t fygliu yu ttgyfyilu yiutgyutyu  ybuygyyggfft"/>
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_weight="1"
+                android:layout_marginRight="5dp"
+                android:layout_marginLeft="5dp">
+                <TextView
+                    android:id="@+id/dat"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5sp"
+                    android:maxLines="1"
+                    android:layout_weight="1"
+                    android:text="jgl;h;hlghkohjbbbbbbbuihiubhuhbuygybguyhbbyugbyuhuihubuhuihuihuiuhuikghookhopfgoofpnoyk"/>
+                <TextView
+                    android:id="@+id/ven"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5sp"
+                    android:layout_weight="1"
+                    android:maxLines="1"
+                    android:text="dfhkodfpkoptdkokohptkooktothkopfotf"/>
+
+                <TextView
+                    android:id="@+id/lin"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5sp"
+                    android:layout_weight="1"
+                    android:maxLines="1"
+                    android:text="yggyyughjhikhkhnhhhuygbyhiohnuiuhuhuiihuigbuuiuiiuhiuijgvyhvv"/>
+
+
+
+            </LinearLayout>
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/img"
+            android:layout_width="128dp"
+            android:layout_height="128dp"
+            android:layout_gravity="right"
+            android:layout_weight="1"/>
+    </LinearLayout>
+
+
+</android.support.v7.widget.CardView>

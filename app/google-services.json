@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "336042509733",
+    "firebase_url": "https://fragmentapp-e55b3.firebaseio.com",
+    "project_id": "fragmentapp-e55b3",
+    "storage_bucket": "fragmentapp-e55b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336042509733:android:2228ec63a866e9b7",
+        "android_client_info": {
+          "package_name": "com.example.fragmentapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336042509733-7jq8087ntghhe7g3fom3drn69qin8bdk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fragmentapp",
+            "certificate_hash": "73515adc6b49d21026cd7da8bd938d271e6a5553"
+          }
+        },
+        {
+          "client_id": "336042509733-s68fglgf1upl73q9iukv9q4j6ah2dfjt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPf3GtNb6zIAtgIz1k1RdoCq6Bugk4M1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "336042509733-s68fglgf1upl73q9iukv9q4j6ah2dfjt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
